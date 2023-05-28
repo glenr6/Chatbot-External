@@ -1,0 +1,6 @@
+/node_modules/
+/build/
+/public/favicon.ico
+/public/logo192.png
+/public/logo512.png
+.env
